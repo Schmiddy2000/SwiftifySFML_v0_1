@@ -1,6 +1,6 @@
 # SwiftifySFML
 
-Framework for dynamic layout handling build on top of SFML (Simple Fast Media Library) in C++. Inspired by Swift and allows container-based UI construction. Still in its infancy and not as functional or flexible yet, as intended.
+Framework for dynamic layout handling build on top of SFML (Simple Fast Media Library) in C++. Inspired by Swift and allows container-based UI construction. Still in its infancy and not yet as functional or flexible as intended.
 
 ## Idea
 
